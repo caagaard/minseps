@@ -95,7 +95,7 @@ def makeRotSys(graph,g):
 #print(makeAllGraphs(1,3))
 
 final_list=[]
-max_g = 3
+max_g = 2
 total_time= time.time()
 #Prepare graph lists here:
 all_graphs=[]
